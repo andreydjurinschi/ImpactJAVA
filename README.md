@@ -1,3 +1,3 @@
 # ImpactJAVA
 
-## Lesson 1 este pregatit si postat in mapa lesson 1
+### project for lesson 1 is copleted and posted in map `Lesson_1`
